@@ -15,7 +15,7 @@ Cookie Clicker（ブラウザ版）向けの機能拡張・支援Modメニュー
 
 * **Infinity goldencookie**
   ゴールデンクッキーのクリック判定を擬似的に高速自動実行（毎秒約30回）し、各バフ効果を無限に重複・維持させます。
-
+* **その他もろもろ　約20個の機能があります**
 ---
 
 ## 導入方法
@@ -36,7 +36,7 @@ Cookie Clicker（ブラウザ版）向けの機能拡張・支援Modメニュー
 最新のアップデートおよび開発進捗は以下の公式チャンネルにて公開しています。
 
 * 開発者: FMsarge
-* 公式YouTubeチャンネル: [FMsarge](あなたのYouTubeチャンネルのURLをここに貼る)
+* 公式YouTubeチャンネル: [FMsarge](https://www.youtube.com/@FMsarge)
 
 ---
 
